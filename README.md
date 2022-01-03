@@ -1,7 +1,7 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Forroset
-In this repository, we introduce Forroset, a dataset that contains extensive information on over 2900 forró songs. Its 40 columns offer information ranging from the song's authors to technical details such as the beat position and length. Forroset also includes over 1400 song lyrics and provided MP3 files for all dataset songs, allowing users to explore and develop new applications forró's reach.
+Forroset is a dataset that contains information on over 2900 forró songs. It includes over 1400 song lyrics and provided MP3 files for all tracks.
 
 # Licence
 This work is available under a [Attribution 4.0 International (CC BY 4.0) ][cc-by]. See the [LICENSE](LICENSE.md) file for rights and limitations of this licence.
