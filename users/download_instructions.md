@@ -8,3 +8,4 @@
   - A list containing their download links and their unique identifiers will be printed at the end of the code execution
    - Access the provided urls and download the files manually
    - To avoid identification problems, rename the downloaded files to their unique identifiers provided
+- If the download process is interrupted, just call the getMusics function again with the same parameters as before
