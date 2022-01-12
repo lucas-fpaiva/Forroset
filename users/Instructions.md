@@ -1,6 +1,6 @@
 # To download the mp3 files correctly, follow these instructions :
 - Download Forroset
-- Create a folder to store the mp3 files
+- Create a folder to store the mp3 files, this folder cannot contain other files.
 - Use the function getMusics(forroset,mp3folder)
    - The first parameter must be a string containing the path to the forroset csv file
     - The second parameter must be a string containing the path to the destination folder of the mp3 files
