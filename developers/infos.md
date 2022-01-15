@@ -1,3 +1,3 @@
-# For developers section
+# Developers section
 
-Neste diretório estão inseridos os códigos utilizados para a construção do Forrset.
+This section contains the codes used to build the Forroset.
