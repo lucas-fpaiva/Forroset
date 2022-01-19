@@ -19,4 +19,4 @@ To download the mp3 files correctly, follow these instructions:
 
 ## Forroset details
 
-In `data_details.ipynb` we presents the forroset data. 
+In `forroset_details.ipynb` we present the forroset data. 
