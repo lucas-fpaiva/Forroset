@@ -15,3 +15,8 @@ To download the mp3 files correctly, follow these instructions:
     2. Access the provided URLs and download the files manually.
     3. To avoid identification problems, rename the downloaded files to their unique identifiers provided.
 5. If the download process is interrupted, just call the `getMusics()` function again with the same parameters as before.
+
+
+## Forroset details
+
+In `data_details.ipynb` we presents the forroset data. 
