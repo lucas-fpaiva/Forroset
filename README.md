@@ -1,4 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by][![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.995888.svg)](https://sandbox.zenodo.org/record/995888#.YvrmUXZKg2w)
 
 # Forroset
 Forroset is a dataset that contains information on over 2900 forró songs. It includes over 1400 song lyrics and provided MP3 files for all tracks.
